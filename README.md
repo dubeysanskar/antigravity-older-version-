@@ -21,4 +21,5 @@ when you installed it youll see this just cancel it
 ## select cancel to this
 
 thank me later follow for more
+star the repo ;)
 ----
