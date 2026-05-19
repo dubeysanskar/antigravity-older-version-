@@ -6,7 +6,11 @@
 
 go to settings->apps-> installed apps-> antigravity 2.0 version delete
 
-then install this version 
+now go on https://antigravity.google/releases
+
+then install this version version 1.23.2
+
+<img width="1888" height="974" alt="image" src="https://github.com/user-attachments/assets/ec7e60ec-3845-4d38-8904-22044617121d" />
 
 and enjoy your older antigravity version 
 
